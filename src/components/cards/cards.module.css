@@ -1,0 +1,14 @@
+.cards {
+	display: flex;
+	flex-direction: column;
+	width: 20.4375rem;
+	margin-inline: auto;
+}
+
+@media screen and (width > 768px) {
+	.cards {
+		flex-direction: row;
+		width: 52.5rem;
+		height: 28.125rem;
+	}
+}
