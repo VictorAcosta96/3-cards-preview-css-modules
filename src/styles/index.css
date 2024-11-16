@@ -24,10 +24,6 @@ a {
 body {
 	font-family: 'Big Shoulders Display', serif;
 	font-size: 0.9375rem;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: 100vh;
 }
 
 h1,

@@ -2,7 +2,7 @@
 	display: flex;
 	flex-direction: column;
 	width: 20.4375rem;
-	margin-inline: auto;
+	margin: 3.125rem auto;
 }
 
 @media screen and (width > 768px) {
